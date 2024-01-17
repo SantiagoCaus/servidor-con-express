@@ -1,0 +1,38 @@
+[
+    {
+    "title": "Game of Thrones",
+    "Description": "Storm of Swords",
+    "price": 6.8,
+    "thumbnail": "./img/game-of-thrones-storm-of-swords.png",
+    "code": 1,
+    "stock": "Books",
+    "id": 1
+    },
+    {
+        "title": "Smart Tv",
+        "Description": "Smart 55 Samsung",
+        "price": 200,
+        "thumbnail": "./img/tv.png",
+        "code": 2,
+        "stock": "Tv",
+        "id": 2
+        },
+        {
+            "title": "Smart Tv",
+            "Description": "Smart 55 Samsung",
+            "price": 200,
+            "thumbnail": "./img/tv.png",
+            "code": 2,
+            "stock": "Tv",
+            "id": 2
+            },
+            {
+                "title": "Smart Tv",
+                "Description": "Smart 55 Samsung",
+                "price": 200,
+                "thumbnail": "./img/tv.png",
+                "code": 2,
+                "stock": "Tv",
+                "id": 2
+                }
+]
